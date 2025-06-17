@@ -3,6 +3,8 @@ An important introductory course in Artificial Intelligence Concepts.
 
 ---
 
+## **Classifier**  
+
 [classifyByThreshold.md](src/js/classifier/threshold/classifyByThreshold.md)  
 
 [classifyByThreshold.js](src/js/classifier/threshold/classifyByThreshold.js)  
