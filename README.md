@@ -11,12 +11,12 @@ An important introductory course in Artificial Intelligence Concepts.
 
 ---
 
-### How to Download this App
+### How to Download this Course
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
 3. Save the Zip File
 4. Extract All
-5. Double click the HTML file to start the App
+5. Double click the README.md file to open in VSCode
 
 ---
 
