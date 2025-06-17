@@ -3,9 +3,9 @@ An important introductory course in Artificial Intelligence Concepts.
 
 ---
 
-[classifyByThreshold](src/js/classifier/threshold/classifyByThreshold.md)  
+[classifyByThreshold.md](src/js/classifier/threshold/classifyByThreshold.md)  
 
-[classifyByThreshold](src/js/classifier/threshold/classifyByThreshold.js)  
+[classifyByThreshold.js](src/js/classifier/threshold/classifyByThreshold.js)  
 
 ---
 
